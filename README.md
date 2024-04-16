@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gather14
+- 🌱 I’m currently learning backend
+- i'm interested in expanding my knowledge on backend and look into the other tech sections
